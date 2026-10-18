@@ -1,0 +1,15 @@
+**/build/
+**/build-check/
+**/.qtcreator/
+*.user
+*.user.*
+*.o
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+Makefile
+object_script.*
+.qmake.stash
+*.exe
+*.db
